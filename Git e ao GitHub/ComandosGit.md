@@ -29,3 +29,8 @@ Comando utilizado para efetivar o commit no repositório local
 **4. Git Push**
 comando utilizado para enviar os commits para o repositório online
 - git push
+
+**5. Git Pull**
+Comando utilizado para atualizar os arquivos e repositório online para o local
+
+- git pull
