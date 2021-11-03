@@ -34,3 +34,32 @@ comando utilizado para enviar os commits para o repositório online
 Comando utilizado para atualizar os arquivos e repositório online para o local
 
 - git pull
+
+**6. Git Init**
+Inicializa a pasta como um repositório Git
+- git init
+
+**7. Git Log**
+Traz as informações de todas as alterações do Git 
+- git log
+
+**8. Git Brach**
+Cria uma ramificação nova para trabalho
+- git branch [NomeBranch]
+- git branch -l Lista as branches criadas
+
+**8. Git Checkout**
+Troca de branch 
+git checkout [NomeBrach]
+git checkout -b [NomeBrach] cria e troca de branch
+
+**9. Git Merge**
+Com o seu repositório na branch criada, faça um checkou na master
+- git checkout master
+- git merge [nomedabranch]
+
+**Git Ignore**
+Criar arquivo de ci=onfiuração para ignorar arquivos copilados, modulos etc
+- criar arquivo gitignore
+- adicionar cada pasta ou arquivo que deseja ignorar
+
