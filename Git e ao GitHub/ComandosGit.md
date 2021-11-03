@@ -32,8 +32,8 @@ comando utilizado para enviar os commits para o repositório online
 
 **5. Git Pull**
 Comando utilizado para atualizar os arquivos e repositório online para o local
-
 - git pull
+- git pull orign master traz as informações da master
 
 **6. Git Init**
 Inicializa a pasta como um repositório Git
@@ -58,8 +58,16 @@ Com o seu repositório na branch criada, faça um checkou na master
 - git checkout master
 - git merge [nomedabranch]
 
-**Git Ignore**
+**10. Git Ignore**
 Criar arquivo de ci=onfiuração para ignorar arquivos copilados, modulos etc
 - criar arquivo gitignore
 - adicionar cada pasta ou arquivo que deseja ignorar
+
+**11. Git Stash** Salva as alterações feitas na brach sem dar commit
+git stash
+git stash list mostra as aterações salvas
+
+**12. Git Remote** 
+git remote [URLDOGIT]
+
 
