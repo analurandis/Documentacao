@@ -9,3 +9,5 @@ atualiza os pacotes
 - dotnet build
 restaura o pacote e gera os binarios
 
+-dotnet run 
+executar o projeto
